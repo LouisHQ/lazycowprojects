@@ -2,7 +2,9 @@
 Automatically exported from code.google.com/p/lazycowprojects
 WPF C# ListView Column Width Auto & *
 
-<ListView HorizontalAlignment="Stretch"
+
+"""
+          <ListView HorizontalAlignment="Stretch"
           Behaviours:GridViewColumnResize.Enabled="True">
         <ListViewItem></ListViewItem>
         <ListView.View>
@@ -48,3 +50,4 @@ WPF C# ListView Column Width Auto & *
         </GridView>
         </ListView.View>
 </ListView>
+        """
